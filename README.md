@@ -1,8 +1,5 @@
 # Review_week5
-
-```python
 Denne uges opgaver har omhandlet relationer med JPA og REST(Post, put, delete), samt errorhandling med rest
-```
 
 ## Tirsdagsopgaven
 Tirsdagsopgaven omhanlede JPA-relations, heraf OneToOne, manyTomany, OneToMany og ManyToOne (unidirectional og bidirectional). 
